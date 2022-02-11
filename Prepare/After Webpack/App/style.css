@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Myfont";
+    src: url("./assets/myfont.otf");
+}
+
+#calculator, #numbers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+    background-color: teal;
+    font-family: 'Myfont';
+}
+

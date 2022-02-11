@@ -1,0 +1,10 @@
+.app, .calculator, .numbers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.numbers {
+    padding: 20px;
+}

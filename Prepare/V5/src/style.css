@@ -1,0 +1,11 @@
+#app, #calculator, #numbers {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#calculator {
+    min-height: 40vh;
+    /* background-color: cyan; */
+}

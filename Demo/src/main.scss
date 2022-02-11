@@ -1,0 +1,14 @@
+$bgColor: white;
+
+#app {
+    background-color: $bgColor;
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-between;
+
+    img {
+        max-width: 40%;
+    }
+}

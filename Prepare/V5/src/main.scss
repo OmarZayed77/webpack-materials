@@ -1,0 +1,9 @@
+$default: 'flex';
+
+.imgs {
+    display: flex;
+
+    img {
+        max-width: 50%;
+    }
+}

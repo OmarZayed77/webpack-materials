@@ -1,0 +1,12 @@
+#app, #numbers {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#app {
+    min-height: 50vh;
+}
+
+
